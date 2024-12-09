@@ -25,7 +25,17 @@ This document is also available in:
 ## Chat Render Example
 
 <https://user-images.githubusercontent.com/1060681/197653099-c3fd12c2-f03a-4580-84e4-63ce3f36be8d.mp4>
-
+### Takaways: Follow the below quick-steps
+[ ] Install visual studio community (Windows)
+[ ] Clone this repo
+[ ] In FileExplorer in VS, select the Folder 'TwicthDownloader WPF' Build it
+[ ] Run it
+[ ] Login to twitch website from chromium or Firefox
+[ ] Install and Launch an extension like cookie editor
+[ ] Look for 'auth-token', once found copy it's value
+[ ] Paste copied value to TwitchDownload field 'OAuth(Optional)'
+[ ] Go To the movie you want to download
+[ ] in the URL copy the number at the end of it e.g: 2394769476
 ## What can it do?
 
 - Download Twitch VODs
